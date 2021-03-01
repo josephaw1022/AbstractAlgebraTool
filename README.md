@@ -1,7 +1,7 @@
 # AbstractAlgebraTool
 
 ## Functions in Abstract Class with example
-    Just copy and paste the line with print in it and see the example for yourself
+    Just copy line with the example in it and paste it in your code chunk and click the arrow and you should get the same answer
 
 
 ---
