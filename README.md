@@ -1,3 +1,13 @@
+%% md
+# Abstract Algebra tool kit 
+---
+###### This is a toolkit to help speed up the process of doing tedious tasks and to see values really fast. This is not meant to replace your understanding of certain topics, but, instead is designed to help when speed up the process when the goal is to solve problems that are higher in abstractions. 
+---
+---
+## Examples and functions are shown on the read me in the github repo 
+
+#### [Github Link](https://github.com/josephaw1022/AbstractAlgebraTool) 
+---
 
 ## Functions in Abstract Class with example
     If in code is in grey box like this. Just copy line with the example in it, 
@@ -35,10 +45,11 @@
 
 - ### simplifyCongruence
     - Example  
-        - You want to simplify 176y ≡ 57x (mod 14)
+        
+            You want to simplify 176y ≡ 57x (mod 14)
 
-        ###### We can simplify this by typing out the following
-        by copying the line below and clicking single arrow in the top left of the screen
+        ###### We can simplify this by typing out the following by copying the line below
+        ###### and clicking single arrow in the top left of the screen
        
         ---
             Abstract.simplifyCongruence(176,57,14)
@@ -53,15 +64,33 @@
         ---
             8y ≡ x (mod 14)
         ---
+- ### zTable 
+    - Example  
+        
+            You want to see the table for Z <sub> 2 </sub> x Z <sub> 3 </sub> with addition
+ 
+        ###### We can simplify this by typing out the following by copying the line below
+        ###### and clicking single arrow in the top left of the screen
+       
+        ---
+            Abstract.zTable(2,3,"+")
+        ---
+        
+       ###### This should return 
+        ---
+            a table of (Z <sub> 2 </sub> x Z <sub> 3 </sub>, +) 
+        ---
 
+       
+
+---
 
 ## __More Basic Tools__
 -----------
 
----
 
 
-- ##### add  
+- ### add  
     ---
     ###### copy line below and click single arrow in the top left of the screen
     
@@ -72,7 +101,7 @@
     
         11
     ---
-- ##### subtract 
+- ### subtract 
     ---
     ###### copy line below and click single arrow in the top left of the screen
     
@@ -83,7 +112,7 @@
         5
     ---
 
-- ##### multiply
+- ### multiply
     ---
     ###### copy line below and click single arrow in the top left of the screen
     
@@ -94,7 +123,7 @@
         24
     ---
 
-- ##### divide
+- ### divide
     ---
     ###### copy line below and click single arrow in the top left of the screen
     
@@ -105,7 +134,7 @@
         1.3333
     ---
     
-- ##### divideInt 
+- ### divideInt 
     ---
     ###### copy line below and click single arrow in the top left of the screen
     
@@ -116,7 +145,7 @@
         2
     ---
     
-- ##### mod
+- ### mod
     ---
     ###### copy line below and click single arrow in the top left of the screen
     
@@ -128,7 +157,7 @@
         1
     ---
     
-- ##### exponent
+- ### exponent
     ---
     ###### copy line below and click single arrow in the top left of the screen
     
@@ -138,4 +167,5 @@
         
             8 
     ---
-   
+        
+
