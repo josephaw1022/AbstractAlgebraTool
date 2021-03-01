@@ -1,9 +1,7 @@
 # AbstractAlgebraTool
 
-Functions in Abstract Class with example
-==========================================
-
-### Just copy and paste the line with print in it and see the example for yourself
+## Functions in Abstract Class with example
+    ### Just copy and paste the line with print in it and see the example for yourself
 
 
 ---
