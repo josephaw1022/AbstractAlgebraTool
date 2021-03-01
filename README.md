@@ -69,9 +69,9 @@ Just copy and paste the line with print in it and see the example for yourself
         Abstract.exponent(2,3) 
     ---
      ###### Result
-        ----
+        ---
             8 
-        ----
+        ---
         
 
 ---
