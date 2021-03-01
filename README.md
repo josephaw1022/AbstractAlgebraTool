@@ -1,111 +1,44 @@
-# AbstractAlgebraTool
 
 ## Functions in Abstract Class with example
-    Just copy line with the example in it and paste it in your code chunk and click the arrow and you should get the same answer
+    If in code is in grey box like this. Just copy line with the example in it, 
+    and paste it in your code chunk to see example work 
+
+--- 
+
+# __Helpful Tools__
 
 
----
-**Basic operations** 
------------
----
 
-- ##### add  
-    
-    ---
-        Abstract.add(8,3)
-    ---
-    ###### Result
-    ---
-        11
-    ---
-- ##### subtract 
-    
-    ---
-        Abstract.subtract(8,3) 
-    ---
-    ###### Result
-    ---
-        5
-    ---
-- ##### multiply
-    
-    ---
-        Abstract.multiply(8,3) 
-    ---
-    ###### Result
-    ---
-        24
-    ---
-- ##### divide
-    
-    ---
-        Abstract.divide(4,3) 
-    ---
-    ###### Result
-    ---
-        1.3333
-    ---
-- ##### divideInt 
-    
-    ---
-        Abstract.divideInt(8,3) 
-    ---
-    ###### Result
-    ---
-        2
-    ---
-- ##### mod
-    ---
-        Abstract.mod(9,2)
-    ---
-     ###### Result
-    
-    ---
-        1
-    ---
-- ##### exponent  
-    
-    ---
-        Abstract.exponent(2,3) 
-    ---
-     ###### Result
-        ---
-            8 
-        ---
-        
-
----
-
-**Tools more applicable to class**
---------
-
----
 - ### GCD
-    - ###### example 
-        ---
-            Abstract.GCD(3,2) 
-        ---
-    - should return 
-        ---
+    ---
+    ###### copy line below and click single arrow in the top left of the screen
+        
+            Abstract.GCD(17,19) 
+        
+    ###### should return 
+        
             1
-        ---
+    ---
 
-- ##### gcdSteps
-    - Example 
-        ---
+- ### gcdSteps
+    ---
+    ###### copy line below and click single arrow in the top left of the screen
+        
             Abstract.gcdSteps(3,2)
-        ---
-    - Should return steps of the problem using Euclid's alogirthm
+        
+    ###### Should return steps of the problem using Euclid's alogirthm
 
-        ---
+        
             (['3 = 2*1 + 1', '2 = 1*2 + 0'], ['1 = 3 - 2*1'])
-        ---
+        
+    ---
 
-- ##### simplifyCongruence
-    - How to use method 
-        - Let's say 176y ≡ 57x (mod 14)
+- ### simplifyCongruence
+    - Example  
+        - You want to simplify 176y ≡ 57x (mod 14)
 
-        ###### We can simplify this by typing out the following 
+        ###### We can simplify this by typing out the following
+        by copying the line below and clicking single arrow in the top left of the screen
        
         ---
             Abstract.simplifyCongruence(176,57,14)
@@ -121,4 +54,88 @@
             8y ≡ x (mod 14)
         ---
 
+
+## __More Basic Tools__
+-----------
+
+---
+
+
+- ##### add  
+    ---
+    ###### copy line below and click single arrow in the top left of the screen
     
+        Abstract.add(8,3)
+    
+    
+    ###### Result 
+    
+        11
+    ---
+- ##### subtract 
+    ---
+    ###### copy line below and click single arrow in the top left of the screen
+    
+        Abstract.subtract(8,3) 
+    
+    ###### Result
+    
+        5
+    ---
+
+- ##### multiply
+    ---
+    ###### copy line below and click single arrow in the top left of the screen
+    
+        Abstract.multiply(8,3) 
+    
+    ###### Result
+    
+        24
+    ---
+
+- ##### divide
+    ---
+    ###### copy line below and click single arrow in the top left of the screen
+    
+        Abstract.divide(4,3) 
+    
+    ###### Result
+    
+        1.3333
+    ---
+    
+- ##### divideInt 
+    ---
+    ###### copy line below and click single arrow in the top left of the screen
+    
+        Abstract.divideInt(8,3) 
+    
+    ###### Result
+    
+        2
+    ---
+    
+- ##### mod
+    ---
+    ###### copy line below and click single arrow in the top left of the screen
+    
+        Abstract.mod(9,2)
+    
+     ###### Result
+    
+    
+        1
+    ---
+    
+- ##### exponent
+    ---
+    ###### copy line below and click single arrow in the top left of the screen
+    
+        Abstract.exponent(2,3) 
+    
+     ###### Result
+        
+            8 
+    ---
+   
