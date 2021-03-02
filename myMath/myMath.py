@@ -18,7 +18,7 @@ class Abstract:
         return a%b 
 
     def exponent(a,b): 
-        return a__b 
+        return a**b 
 
     ## More specific stuff
     def GCD(a,b):
