@@ -4,7 +4,7 @@ This is a toolkit to help speed up the process of doing tedious tasks and to see
 
 
 ## Why and how to use this? 
-As a college student here at Presbyterian College who is completing a major in computer science and in math, I find myself not wanting to brute problems in my math classes. Specifically, the problems that have require an algorithm(s) with lots of tedious elementary operations.  Hince I made this Python class and with a set of instructions for others to use.
+As a college student here at Presbyterian College who is completing a major in computer science and in math, I find myself not wanting to brute force problems in my math classes. Specifically, the problems that lots of tedious elementary operations. Isn't this what a calculator is for? In general, yes, but for the problems being solved in this case, then no due to how specific and repititive some of the algorithms can get. Hince I made this Python class and with a set of instructions for others to use.
 
 I made this anticipating that concepts learned will build up in abstraction and that it will more conveinent to have the computer solve something  quickly just so I don't get bogged down in some small human error and am able to learn the concept being taught. 
 
