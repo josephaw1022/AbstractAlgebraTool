@@ -51,10 +51,6 @@ class myMath:
         bigVal , smallVal = max([a,b]) , min([a,b])
         # start euclid's alogirthm  
         # FORMAT =>  A = M*X + B  
-        aValues =[]
-        mValues =[]
-        xValues =[]
-        bValues =[]
 
         done = False 
         while not done:
@@ -65,23 +61,14 @@ class myMath:
             endingVals.append(endingsFormat(tempVal,bigVal,tempVal//bigVal,smallVal))
             allEquations.append(equationFormat(tempVal,bigVal,tempVal//bigVal,smallVal))
 
-            aValues.append(tempVal)
-            mValues.append(bigVal)
-            xValues.append(tempVal//bigVal)
-            bValues.append(smallVal)
-
             if smallVal ==0: 
                 break 
-        aValues = popEndValue(aValues)
-        mValues = popEndValue(mValues)
-        xValues = popEndValue(xValues)
-        bValues = popEndValue(bValues)
+        
         endingVals = popEndValue(endingVals)
 
         # "\n",aValues,"\n",mValues,"\n", xValues,"\n" , bValues, "\n")
         
         return allEquations, endingVals
-
 
     def simplifyCongruence(initVal1, initVal2, iterVal): 
         returnVals = []
