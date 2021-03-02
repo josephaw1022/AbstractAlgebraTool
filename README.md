@@ -7,6 +7,7 @@ As a college student here at Presbyterian College who is completing a major in c
 I made this anticipating that concepts learned will build up in abstraction and that it will more conveinent to have the computer solve something  quickly just so I don't get bogged down in some small human error and am able to learn the concept being taught.
 
 To be 100% clear, this is a tool for homework! Not a crutch; and, I don't recommend that you use this unless you conceptually understand the concepts of the methods used. 
+I made this anticipating that concepts learned will build up in abstraction and that it will more conveinent to have the computer solve something  quickly just so I don't get bogged down in some small human error and am able to learn the concept being taught. To be 100% clear, this is a tool for homework, not a crutch and I don't recomment you use this unless you conceptually understand the concepts of the methods used.
 
 ## Online Editor 
 
