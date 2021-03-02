@@ -15,7 +15,7 @@ I made this anticipating that concepts learned will build up in abstraction and 
 - Rename the class to something more generalized
 - Add a linear combination method that equals two number's gcd 
 - Add some calculus and differential equation methods 
-- Rebuild some methods with numpy instead for improved performance 
+
 
 # Instructions 
 
