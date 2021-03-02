@@ -218,5 +218,3 @@ class myMath:
     
         return formattedTable(finalTable)
 
-
-print(myMath.linearCombination(17,3444221))

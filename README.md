@@ -68,7 +68,18 @@ Click this [link](https://alpha.iodide.io/notebooks/7057/) after reading the ent
             (['3 = 2*1 + 1', '2 = 1*2 + 0'], ['1 = 3 - 2*1'])
         
     ---
+- ### linearCombination
+    ---
+    ###### copy line below and click single arrow in the top left of the screen
+        
+            Abstract.linearCombination(18,293)
+        
+    ###### Should return steps of the problem using Euclid's alogirthm
 
+            "114(18)+ -7(293) = 1"
+            
+        
+    ---
 - ### simplifyCongruence
     - Example  
         
