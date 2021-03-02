@@ -41,8 +41,9 @@ Click this [link](https://alpha.iodide.io/notebooks/7057/) after reading the ent
 
 
 
-## Abstract's class methods example
-    
+## Abstract's class methods examples
+#### The Examples given are designed for the online editor accessible via the link at the top of this READMe.md file
+
 
 - ### GCD
     ---
