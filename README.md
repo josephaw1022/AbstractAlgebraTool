@@ -22,7 +22,7 @@ Click this [link](https://alpha.iodide.io/notebooks/7057/) after reading the ent
 ## Local
 ### Instructions 
 - simply download the github repository and run the commands locally
--  If you would like to have a pull-request to the repo, send me a note as it is common curtosy to do so and we'll go from there 
+-  If you would like to make a pull-request to the repo, send me a note as it is common curtesy to do so, and we'll go from there 
 
 
 
