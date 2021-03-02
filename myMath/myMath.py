@@ -1,7 +1,4 @@
-from typing import AbstractSet
-
-
-class myMath:
+class Abstract:
     def add(a,b): 
         return a+b 
 
@@ -151,7 +148,7 @@ class myMath:
             if operation=="+": 
                 return Abstract.add(valueOne,valueTwo)
             elif operation=="*": 
-                return multiply(valueOne,valueTwo)
+                return Abstract.multiply(valueOne,valueTwo)
 
         def makeArray(lengthDesired):
             anyArray = []
@@ -217,4 +214,3 @@ class myMath:
 
     
         return formattedTable(finalTable)
-
