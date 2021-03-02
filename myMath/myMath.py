@@ -1,3 +1,6 @@
+from typing import AbstractSet
+
+
 class myMath:
     def add(a,b): 
         return a+b 
@@ -115,12 +118,23 @@ class myMath:
 
     # This is still in the works at the moment 
     def linearCombination(valueOne, valueTwo): 
-        gcdValue = GCD(valueOne,valueTwo)
-        equation = "{} = {} + {}".format(gcdValue,valueOne,valueTwo)
+        s = 0
+        old_s = 1
+        t = 1
+        old_t = 0
+        r = valueOne
+        old_r = valueTwo
 
-        equation= equation.split("=")
+        while r != 0:
+            quotient = old_r//r 
+            old_r, r = r, old_r - quotient*r
+            old_s, s = s, old_s - quotient*s
+            old_t, t = t, old_t - quotient*t
         
-        return equation
+        return "{}({})+ {}({}) = {}".format(old_t, valueOne, old_s,  valueTwo, old_r )
+    
+
+
 
     def zTable(zOne, zTwo, operation=""): 
         if zOne > 3 or zTwo > 3: 
@@ -203,3 +217,6 @@ class myMath:
 
     
         return formattedTable(finalTable)
+
+
+print(myMath.linearCombination(17,3444221))
