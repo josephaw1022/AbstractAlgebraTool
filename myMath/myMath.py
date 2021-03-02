@@ -33,7 +33,7 @@ class Abstract:
             potentialGCD = smallVal 
             smallVal = tempVal % smallVal
             if smallVal ==0: 
-                return potentialGCD
+                return "\n\ngcd( {} , {} ) = {}\n\n".format(a,b,potentialGCD) 
 
     def gcdSteps(a,b):
         def equationFormat(valOne, valTwo, valThree, valFour):
