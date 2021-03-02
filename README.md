@@ -10,7 +10,8 @@ I made this anticipating that concepts learned will build up in abstraction and 
 
 ### Instructions 
 Click this [link](https://alpha.iodide.io/notebooks/7057/) after reading the entire instructions
-- You will need to make a Github account. If you don't understand what Github is, don't worry. It's only needed to access the editor 
+- You will need to make a Github account. If you don't understand what Github is, don't worry. It's only needed to access the editor where you can run the examples and try your own.
+ 
 - Just in case you're not familiar with coding, you can use your own examples simply by modifying the numbers after typing or copying and pasting an example given 
 
 	    If in code is in grey box like this.
