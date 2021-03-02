@@ -1,4 +1,4 @@
-class Abstract:
+class myMath:
     def add(a,b): 
         return a+b 
 
@@ -24,6 +24,7 @@ class Abstract:
     def GCD(a,b):
         bigVal , smallVal = max([a,b]) , min([a,b])
         # start euclid's alogirthm 
+        
 
         done = False 
         while not done:
