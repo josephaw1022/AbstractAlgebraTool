@@ -4,7 +4,7 @@
 ---
 ## Online Editor 
 
-#### [Iodide Link](https://github.com/josephaw1022/AbstractAlgebraTool) 
+#### [Iodide Link](https://alpha.iodide.io/notebooks/7057/) 
 
 ---
 
