@@ -1,12 +1,6 @@
 ## Abstract Algebra tool kit 
 This is a toolkit to help speed up the process of doing tedious tasks and to see values really fast. This is not meant to replace your understanding of certain topics, but, instead is designed to help when speed up the process when the goal is to solve problems that are higher in abstractions.
 
-## Future Plans For Repo 
-
-- Rename the class to something more generalized
-- Add a linear combination method that equals two number's gcd 
-- Add some calculus and differential methods 
-- Rebuild some methods with numpy instead for improved performance 
 
 
 ## Why and how to use this? 
@@ -15,6 +9,15 @@ As a college student here at Presbyterian College who is completing a major in c
 I made this anticipating that concepts learned will build up in abstraction and that it will more conveinent to have the computer solve something  quickly just so I don't get bogged down in some small human error and am able to learn the concept being taught. 
 
 ##### To be 100% clear, this is a tool for homework! Not a crutch; and, I don't recommend that you use this unless you conceptually understand the concepts of the methods used. 
+
+## Future Plans For Repo 
+
+- Rename the class to something more generalized
+- Add a linear combination method that equals two number's gcd 
+- Add some calculus and differential methods 
+- Rebuild some methods with numpy instead for improved performance 
+
+# Instructions 
 
 ## Online Editor 
 
