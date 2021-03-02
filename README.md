@@ -1,9 +1,12 @@
-# Abstract Algebra tool kit 
----
-###### This is a toolkit to help speed up the process of doing tedious tasks and to see values really fast. This is not meant to replace your understanding of certain topics, but, instead is designed to help when speed up the process when the goal is to solve problems that are higher in abstractions. 
----
-## Online Editor 
+## Abstract Algebra tool kit 
+This is a toolkit to help speed up the process of doing tedious tasks and to see values really fast. This is not meant to replace your understanding of certain topics, but, instead is designed to help when speed up the process when the goal is to solve problems that are higher in abstractions.
 
+## Why and how to use this? 
+As a student who is completing a double major in computer science and math, I find myself not wanting to brute force all the problems in my Abstract Algebra class. Specifically, the problems that have require an algorithm(s) with lots of tedious elementary operations.  Hince I made this Python class and with a set of instructions for others to use.
+
+I made this anticipating that concepts learned will build up in abstraction and that it will more conveinent to have the computer solve something  quickly just so I don't get bogged down in some small human error and am able to learn the concept being taught 
+
+## Online Editor 
 
 ### Instructions 
 Click this [link](https://alpha.iodide.io/notebooks/7057/) after reading the entire instructions
