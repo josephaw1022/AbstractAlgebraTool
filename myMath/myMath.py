@@ -50,7 +50,6 @@ class myMath:
         allEquations=[]
         bigVal , smallVal = max([a,b]) , min([a,b])
         # start euclid's alogirthm  
-        # FORMAT =>  A = M*X + B  
 
         done = False 
         while not done:
@@ -66,7 +65,6 @@ class myMath:
         
         endingVals = popEndValue(endingVals)
 
-        # "\n",aValues,"\n",mValues,"\n", xValues,"\n" , bValues, "\n")
         
         return allEquations, endingVals
 
@@ -100,7 +98,6 @@ class myMath:
         templateFormat = topline+ "{}a ≡ {}b (mod {})\n\n".format(initVal1, initVal2, iterVal)
         return templateFormat
 
-
     # This is still in the works at the moment 
     def linearCombination(valueOne, valueTwo): 
         s = 0
@@ -119,8 +116,6 @@ class myMath:
         return "{}({})+ {}({}) = {}".format(old_t, valueOne, old_s,  valueTwo, old_r )
     
 
-
-
     def zTable(zOne, zTwo, operation=""): 
         if zOne > 3 or zTwo > 3: 
             indent = ""
@@ -130,7 +125,7 @@ class myMath:
             indent = "\t"
 
         if operation=="" or operation=="None": 
-            return  "\n\nATTENTION!\n\nMust give a string of a operation ['+', '*'] argument. Cannot be anything else.\n\nExample of correct method use:\n\n{}\n\n{}\n\n{}\n\n".format("ZTable(3,4,'+')","ZTable(3,2,'*')","ZTable(9,4,'+')")
+            return  "\n\nATTENTION\n\nMust give a string of a operation ['+', '*'] argument. Cannot be anything else.\n\nExample of correct method use:\n\n{}\n\n{}\n\n{}\n\n".format("ZTable(3,4,'+')","ZTable(3,2,'*')","ZTable(9,4,'+')")
 
         def doOperation(valueOne, valueTwo, operation): 
             if operation=="+": 
