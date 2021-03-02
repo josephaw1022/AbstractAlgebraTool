@@ -4,21 +4,28 @@
 ---
 ## Online Editor 
 
-#### [Iodide Link](https://alpha.iodide.io/notebooks/7057/) 
 
----
+### Instructions 
+Click this [link](https://alpha.iodide.io/notebooks/7057/) after reading the entire instructions
+- You will need to make a Github account. If you don't understand what Github is, don't worry. It's only needed to access the editor 
+- Just in case you're not familiar with coding, you can use your own examples simply by modifying the numbers after typing or copying and pasting an example given 
 
----
+	    If in code is in grey box like this.
+	    Just copy line with the example in it,
+	    and paste it in your code chunk. 
+	    Then hit the double arrow or single arrow. 
+	    And the results will be on the left  
 
-## Functions in Abstract Class with example
-    If in code is in grey box like this. Just copy line with the example in it, 
-    and paste it in your code chunk to see example work 
-
---- 
-
-# __Helpful Tools__
+## Local
+### Instructions 
+- simply download the github repository and run the commands locally
+-  If you would like to have a pull-request to the repo, send me a note as it is common curtosy to do so and we'll go from there 
+-
 
 
+
+## Abstract's class methods example
+    
 
 - ### GCD
     ---
@@ -70,7 +77,7 @@
         
         ###### You want to see the table for
 
-                Zsubscript(2) x Zsubscript(3)
+                Zsubscript(2) + Zsubscript(3)
             
          ###### with addition or multiplication 
         ---
@@ -80,25 +87,24 @@
        
         ---
             Abstract.zTable(2,3,"+")
-        ---
-        ---
+        
+        
+         or 
+         
             Abstract.zTable(2,3,"*")
         ---
         
-       ###### This should return one of these 
+       ###### This should return one of these (not actual result) 
         
-            a table of (Zsubscript(2) x Zsubscript(3), +)
+            a long table of (Zsubscript(2) x Zsubscript(3), +)
         
-        --- 
+	   or 
 
-            a table of (Zsubscript(2) x Zsubscript(3), *)
+            a long table of (Zsubscript(2) x Zsubscript(3), *)
              
 ---
 
-## __More Basic Tools__
------------
-
-
+## __More Basic Methods__ (Nothing special) 
 
 - ### add  
     ---
