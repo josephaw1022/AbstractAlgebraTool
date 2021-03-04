@@ -10,10 +10,22 @@ I made this anticipating that concepts learned will build up in abstraction and 
 
 ##### To be 100% clear, this is a tool for homework! Not a crutch; and, I don't recommend that you use this unless you conceptually understand the concepts of the methods used. 
 
-## Future Plans For Repo 
+## Future Plans For Repo (ToDo) 
 
-- Rename the class to something more generalized
-- Add some calculus and differential equation methods 
+- rename to a more general class name and have abstract as a subclass 
+- add counting and permutations methods 
+- add p(A|B) and p(B|A) methods 
+- union and intersection of set methods 
+- is this set a partition of a particular set 
+- add numerical methods methods
+	- find lim f(x) 
+	- find f'(x) 
+	- find zeros of f(x) 
+- shorcut for matplotlib 
+	- model a vector field 
+	- quickly graph a function 
+	- quickly graph a derivative 
+
 
 
 # Instructions 
